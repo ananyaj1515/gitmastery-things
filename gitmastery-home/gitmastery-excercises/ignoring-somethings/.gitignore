@@ -1,0 +1,4 @@
+many/
+!many/file22.txt
+ignore_me.txt
+this/**/runaway.txt
